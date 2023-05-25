@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<!--[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)-->
 <h1 align="center">Hi 👋, I'm SATYAM SRIVASTAVA</h1>	
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/99/af/89/99af89d4c94df9365b9a3067aa926b63.gif">
