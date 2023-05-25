@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm SATYAM SRIVASTAVA</h1>	
-<!---<img align="right" alt="Coding" width="400" src="WhatsApp Image 2023-05-24 at 19.43.38.jpg"
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)-->
+
+<img align="right" alt="Coding" width="400" src="WhatsApp Image 2023-05-24 at 19.43.38.jpg">
+<!---[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)-->
 <h3 align="center">Passionate software developer with expertise in web application development. I have experience working with C,C++,JAVA,HTML,CSS,JavaScript,and Bootstrap. I am constantly learning and exploring new technologies to enhance my skills and deliver efficient solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-msatty&label=Profile%20views&color=0e75b6&style=flat" alt="i-msatty" /> </p>
