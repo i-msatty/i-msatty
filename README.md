@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-msatty&label=Profile%20views&color=0e75b6&style=flat" alt="i-msatty" /> </p>
 
-- 🌱 I’m currently learning **I have a strong academic background and currently pursuing my PG in MCA from KIET Group of Institutions, Delhi-NCR, Ghaziabad, with A.K.T.U, which will be completed by 2024.**
+- 🌱I have a strong academic background and currently pursuing my PG in MCA from KIET Group of Institutions, Delhi-NCR, Ghaziabad, with A.K.T.U, which will be completed by 2024.**
 
 - 📫 How to reach me **srivastava.satyam1110@gmail.com**
 
